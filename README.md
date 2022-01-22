@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksujeeter
 - 👀 I’m interested in autonomous vehicles derive
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m currently learning AI and ML and self driving
 - 💞️ I’m looking to collaborate on AI 
 - 📫 How to reach me through ksujeet@iitg.ac.in
 
