@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksujeeter
+- 👋 Hi, I’m Sujeet Singh
 - 👀 I’m interested in autonomous vehicles derive
 - 🌱 I’m currently learning AI and ML and self driving
 - 💞️ I’m looking to collaborate on AI 
